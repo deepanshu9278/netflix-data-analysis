@@ -57,4 +57,5 @@ Deepanshu Gupta
 GitHub: https://github.com/deepanshu9278
 
 LinkedIn: linkedin.com/deepanshu-gupta1007
+
 Analyzed Netflix titles using Python, Pandas, and Power BI to uncover trends in content, genres, ratings, countries, and release years through interactive visualizations.
