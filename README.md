@@ -1,9 +1,8 @@
-# netflix-data-analysis
 # 🎬 Netflix Data Analysis
 
 ## 📌 Project Overview
 
-This project analyzes the Netflix Titles dataset using Python and Power BI to uncover meaningful insights into Netflix's content library.
+This project analyzes the Netflix Titles dataset using Python and Matplotlib, Seaborn to uncover meaningful insights into Netflix's content library.
 
 The analysis focuses on content distribution, release trends, genres, ratings, countries, and other key business metrics.
 
@@ -27,7 +26,7 @@ The analysis focuses on content distribution, release trends, genres, ratings, c
 - Matplotlib
 - Seaborn
 - Power BI
-- Jupyter Notebook
+- google collab
 
 ---
 
@@ -55,7 +54,7 @@ Netflix Titles Dataset
 
 Deepanshu Gupta
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/deepanshu9278
 
-LinkedIn: Add your LinkedIn Profile
+LinkedIn: linkedin.com/deepanshu-gupta1007
 Analyzed Netflix titles using Python, Pandas, and Power BI to uncover trends in content, genres, ratings, countries, and release years through interactive visualizations.
